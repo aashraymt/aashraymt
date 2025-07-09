@@ -60,7 +60,7 @@
 
 ### 🛠️ Skills & Tools
 
-- **Languages**: Python, Bash, PowerShell, HTML/CSS, SQL
+- **Languages**: Python, Bash, PowerShell, HTML/CSS, SQL, Javascript, Java
 - **Tools**: Burp Suite, Wireshark, Nmap, Metasploit, Nessus, OpenVAS, Splunk, Metasploit, TCPDump, Netcat, SQLMap, DirBuster, Splunk, Postman, MobSF, FFUF & Nuclei, Hydra, Frida, JadX, Sublist3r and Ghidra
 - **Cloud**: AWS CloudTrail, AWS Config, Azure Sentinel, Azure Monitor, GCP Cloud Logging, GCP Security Command Center, ELK Stack (Elasticsearch, Logstash, Kibana), Hive, Terraform, ARM Templates, Python, Bash, SIEM, Syslog, JSON, YAML
 
