@@ -31,7 +31,7 @@
 | Project | Description |
 | --- | --- |
 | \[🔐 AD Lab Exploitation\](In Progress) | Built and exploited on-prem Active Directory environments using PowerShell, BloodHound, and Mimikatz. |
-| \[☁️ ELK Cloud Log Pipeline\](In progress) | Streamed AWS, Azure, and GCP logs into a personal ELK stack for blue team analysis. |
+| [☁️ Multi Cloud Blue Team](https://github.com/Aashray08/Multi-Cloud-Blue-Team) | Streamed AWS, Azure, and GCP logs into a personal ELK stack for blue team analysis. |
 | [🕵️‍♂️ Keylogger PoC](https://github.com/Aashray08/Keylogger) | Basic keylogger built in Python with efficient file writing and listener management. |
 | [🎯 CTF Writeups](https://aashraymt.medium.com/) | Walkthroughs and PoCs from Hack The Box and PicoCTF challenges. |
 | [👥 Active Directory Home Lab: User Creation](https://github.com/Aashray08/AD-Lab/tree/main/) | Set up a Windows Server domain controller and automated the creation of 1000+ users with custom OU structures using PowerShell scripts for red team simulation and access control testing. |
