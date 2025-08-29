@@ -30,9 +30,7 @@
 
 | Project | Description |
 | --- | --- |
-| [Red Team Simulation](https://github.com/Aashray08/Red-Teaming-Simulation) | •	Built and operated a full red team lab simulating enterprise environments; conducted external enumeration, network/web exploitation, and internal AD attacks including Kerberoasting, DCSync, and Golden Ticket.
-•	Mapped attack phases to the MITRE ATT&CK framework; practiced network pivoting, firewall evasion, and LOLBAS techniques for stealth and lateral movement.
- |
+| [Red Team Simulation](https://github.com/Aashray08/Red-Teaming-Simulation) | Built and operated a full red team lab simulating enterprise environments; conducted external enumeration, network/web exploitation, and internal AD attacks including Kerberoasting, DCSync, and Golden Ticket. Mapped attack phases to the MITRE ATT&CK framework; practiced network pivoting, firewall evasion, and LOLBAS techniques for stealth and lateral movement. |
 | [☁️ Multi Cloud Blue Team](https://github.com/Aashray08/Multi-Cloud-Blue-Team) | Streamed AWS, Azure, and GCP logs into a personal ELK stack for blue team analysis. |
 | [🕵️‍♂️ Keylogger PoC](https://github.com/Aashray08/Keylogger) | Basic keylogger built in Python with efficient file writing and listener management. |
 | [🎯 CTF Writeups](https://aashraymt.medium.com/) | Walkthroughs and PoCs from Hack The Box and PicoCTF challenges. |
