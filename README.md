@@ -35,11 +35,13 @@
 | [🕵️‍♂️ Keylogger PoC](https://github.com/Aashray08/Keylogger) | Basic keylogger built in Python with efficient file writing and listener management. |
 | [🎯 CTF Writeups](https://aashraymt.medium.com/) | Walkthroughs and PoCs from Hack The Box and PicoCTF challenges. |
 | [👥 Active Directory Home Lab: User Creation](https://github.com/Aashray08/AD-Lab/tree/main/) | Set up a Windows Server domain controller and automated the creation of 1000+ users with custom OU structures using PowerShell scripts for red team simulation and access control testing. |
+| [🛡️SIEM with Microsoft Sentinel on Azure](https://github.com/Aashray08/Azure-Sentinel-SIEM-Home-Lab) | A cloud-based home lab demonstrating end-to-end security operations by using Azure Sentinel to detect and visualize real-time brute-force attacks on a vulnerable Windows virtual machine. |
 
 * * *
 
 ### 🧠 Certifications
 
+- ✅ **CompTIA Security+ V7** – CompTIA --Done by September 
 - ✅ **Certified Red Team Analyst (CRTA)** – Cyberwarfare Labs --In progress
 - ✅ **Multi-Cloud Blue Team Analyst (MCBTA)** – Cyberwarfare Labs --In progress
 - ✅ [**Certified AppSec Practitioner (CAP)**](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXa4HXsvSc1vH0s1SEM485D5vj26pLyWqo4gK0MGpA9TIkaawUO9R36sSi0p+k/7uQKBepFskYRNyPhwiBGpbqZw=) – The SecOps Group
