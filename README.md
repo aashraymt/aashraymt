@@ -4,7 +4,7 @@
 *Focused on both Red & Blue Teaming | CTF Enthusiast | Application Security | Cloud Security*
 
 * * *
-d
+
 ### 🔐 About Me
 
 - 🧑‍🎓 Cybersecurity and Networking undergrad passionate about building secure systems and breaking insecure ones.
