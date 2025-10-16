@@ -30,12 +30,12 @@
 
 | Project | Description |
 | --- | --- |
-| [Red Team Simulation](https://github.com/Aashray08/Red-Teaming-Simulation) | Built and operated a full red team lab simulating enterprise environments; conducted external enumeration, network/web exploitation, and internal AD attacks including Kerberoasting, DCSync, and Golden Ticket. Mapped attack phases to the MITRE ATT&CK framework; practiced network pivoting, firewall evasion, and LOLBAS techniques for stealth and lateral movement. |
-| [☁️ Multi Cloud Blue Team](https://github.com/Aashray08/Multi-Cloud-Blue-Team) | Streamed AWS, Azure, and GCP logs into a personal ELK stack for blue team analysis. |
-| [🕵️‍♂️ Keylogger PoC](https://github.com/Aashray08/Keylogger) | Basic keylogger built in Python with efficient file writing and listener management. |
+| [Red Team Simulation](https://github.com/aashraymt/Red-Teaming-Simulation) | Built and operated a full red team lab simulating enterprise environments; conducted external enumeration, network/web exploitation, and internal AD attacks including Kerberoasting, DCSync, and Golden Ticket. Mapped attack phases to the MITRE ATT&CK framework; practiced network pivoting, firewall evasion, and LOLBAS techniques for stealth and lateral movement. |
+| [☁️ Multi Cloud Blue Team](https://github.com/aashraymt/Multi-Cloud-Blue-Team) | Streamed AWS, Azure, and GCP logs into a personal ELK stack for blue team analysis. |
+| [🕵️‍♂️ Keylogger PoC](https://github.com/aashraymt/Keylogger) | Basic keylogger built in Python with efficient file writing and listener management. |
 | [🎯 CTF Writeups](https://aashraymt.medium.com/) | Walkthroughs and PoCs from Hack The Box and PicoCTF challenges. |
-| [👥 Active Directory Home Lab: User Creation](https://github.com/Aashray08/AD-Lab/tree/main/) | Set up a Windows Server domain controller and automated the creation of 1000+ users with custom OU structures using PowerShell scripts for red team simulation and access control testing. |
-| [🛡️SIEM with Microsoft Sentinel on Azure](https://github.com/Aashray08/Azure-Sentinel-SIEM-Home-Lab) | A cloud-based home lab demonstrating end-to-end security operations by using Azure Sentinel to detect and visualize real-time brute-force attacks on a vulnerable Windows virtual machine. |
+| [👥 Active Directory Home Lab: User Creation](https://github.com/aashraymt/AD-Lab/tree/main/) | Set up a Windows Server domain controller and automated the creation of 1000+ users with custom OU structures using PowerShell scripts for red team simulation and access control testing. |
+| [🛡️SIEM with Microsoft Sentinel on Azure](https://github.com/aashraymt/Azure-Sentinel-SIEM-Home-Lab) | A cloud-based home lab demonstrating end-to-end security operations by using Azure Sentinel to detect and visualize real-time brute-force attacks on a vulnerable Windows virtual machine. |
 
 * * *
 
