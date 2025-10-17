@@ -4,28 +4,6 @@
 *Focused on both Red & Blue Teaming | CTF Enthusiast | Application Security | Cloud Security*
 
 * * *
-
-### 🔐 About Me
-
-- 🧑‍🎓 Cybersecurity and Networking undergrad passionate about building secure systems and breaking insecure ones.
-- 🛡️ Previously worked in **Application Security**, focusing on web, mobile, and API vulnerability assessments.
-- ⚔️ Red Team work: Built and exploited **Active Directory labs**, used tools like SharpHound, Mimikatz, Rubeus, and PowerView.
-- ☁️ Blue Team skills: Completed **Multi-Cloud Blue Team Analyst** training from Cyberwarfare Labs — hands-on with AWS, Azure & GCP threat detection.
-- 🧪 I love writing **PoCs and CTF writeups**, which I share on [Medium](https://aashraymt.medium.com/).
-- 🧠 Always exploring — from exploit development to cloud monitoring pipelines.
-
-* * *
-
-### 💡 Current Interests
-
-- Red & Blue Team Simulations
-- Threat Detection in Multi-Cloud
-- Writing Exploits & Custom Scripts
-- CTFs (Top 900 in HackTheBox, PicoCTF, TryHackMe)
-- Open Source Security Tooling
-
-* * *
-
 ### 📌 Notable Projects
 
 | Project | Description |
