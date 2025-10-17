@@ -21,7 +21,7 @@
 - Red & Blue Team Simulations
 - Threat Detection in Multi-Cloud
 - Writing Exploits & Custom Scripts
-- CTFs (Top 1000 in HackTheBox, PicoCTF, TryHackMe)
+- CTFs (Top 900 in HackTheBox, PicoCTF, TryHackMe)
 - Open Source Security Tooling
 
 * * *
@@ -71,7 +71,7 @@
 ### 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/aashray-tuladhar)
-- ✍️ [Medium Blog](https://medium.com/@tuladham)  
+- ✍️ [Medium Blog](https://aashraymt.medium.com/)  
     
 
 * * *
