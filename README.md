@@ -50,7 +50,7 @@
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/aashray-tuladhar)
 - ✍️ [Medium Blog](https://aashraymt.medium.com/)  
-    
+- ✍️ [Gitbook notes](https://aashraymt.gitbook.io/aashraymt-docs/)  
 
 * * *
 
