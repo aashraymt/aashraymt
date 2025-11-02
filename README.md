@@ -1,13 +1,14 @@
 # Hey there 👋, I'm Aashray Tuladhar
 
-**Cybersecurity & Networking Student @ University of Cincinnati**  
-*Focused on both Red & Blue Teaming | CTF Enthusiast | Application Security | Cloud Security*
+**Cybersecurity Student @ University of Cincinnati**  
+*Focused on Researching about Security | CTF Enthusiast | Application Security | Cloud Security | AI Security*
 
 * * *
 ### 📌 Notable Projects
 
 | Project | Description |
 | --- | --- |
+| [🎯 Peas-hunter](https://github.com/aashraymt/peas-hunter) | A Bash-based automation tool that parses LinPEAS/WinPEAS outputs using regex to identify and retrieve sensitive files, streamlining privilege escalation for CTFs and penetration tests. |
 | [Red Team Simulation](https://github.com/aashraymt/Red-Teaming-Simulation) | Built and operated a full red team lab simulating enterprise environments; conducted external enumeration, network/web exploitation, and internal AD attacks including Kerberoasting, DCSync, and Golden Ticket. Mapped attack phases to the MITRE ATT&CK framework; practiced network pivoting, firewall evasion, and LOLBAS techniques for stealth and lateral movement. |
 | [☁️ SIEM Log Analysis Threat Detection Lab](https://github.com/aashraymt/SIEM-Log-Analysis-Threat-Detection-Lab) | Streamed AWS, Azure, and GCP logs into a personal ELK stack for blue team analysis. |
 | [🕵️‍♂️ Keylogger PoC](https://github.com/aashraymt/Keylogger) | Basic keylogger built in Python with efficient file writing and listener management. |
@@ -21,7 +22,8 @@
 
 - ✅ **CompTIA Security+ V7** – CompTIA --Done by September 
 - ✅ **Certified Red Team Analyst (CRTA)** – Cyberwarfare Labs --In progress
-- ✅ **Multi-Cloud Blue Team Analyst (MCBTA)** – Cyberwarfare Labs --In progress
+- ✅ [**Multi-Cloud Blue Team Analyst (MCBTA)**](https://labs.cyberwarfare.live/credential/achievement/690384122e1ff651b77f860a) – Cyberwarfare Labs 
+- ✅ [**Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=AD9A450F79042C274CA81564BD378D411182B205B97DCD242AE2CFFC1C04A8FA) - Oracle Cloud
 - ✅ [**Certified AppSec Practitioner (CAP)**](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXa4HXsvSc1vH0s1SEM485D5vj26pLyWqo4gK0MGpA9TIkaawUO9R36sSi0p+k/7uQKBepFskYRNyPhwiBGpbqZw=) – The SecOps Group
 - ✅ [**Certified Blockchain Practitioner (CBP)**](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXf3nVKOFfo1YbVsctdK6d8aZHloG3/ToVT4xs/+mDJER9MyTykpzRPbVLHDxsdc1Hy0dqgmCSvs0fEASQViCYq8=) – The SecOps Group
 - ✅ [**APIsec Certified Practitioner**](https://www.credly.com/badges/ddf75623-fb3d-4b3c-b95f-92f3ecd56ce5) – APIsec University
