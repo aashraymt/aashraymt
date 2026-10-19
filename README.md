@@ -1,7 +1,7 @@
 # Hey there 👋, I'm Aashray Tuladhar
 
 **Cybersecurity Student @ University of Cincinnati**  
-*Focused on Researching about Security | CTF Enthusiast | Application Security | Cloud Security | AI Security*
+*Focused on Researching about Security | CTF | Application Security | Cloud Security | AI Security*
 
 ### 📫 Let's Connect
 
